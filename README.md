@@ -1,6 +1,6 @@
 # FDA Peptide Status Tracker and Warning Letters
 
-FDA approval, compounding, shortage, WADA and DEA status for peptides, plus FDA warning letters that name them. Published by Living+ Peptides (https://livingpluspeptides.com), an education-only reference site. Updated 2026-11-08.
+FDA approval, compounding, shortage, WADA and DEA status for peptides, plus FDA warning letters that name them. Published by Living+ Peptides (https://livingpluspeptides.com), an education-only reference site. Updated 2026-11-09.
 
 ## Files
 
